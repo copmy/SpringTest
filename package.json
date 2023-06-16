@@ -1,0 +1,19 @@
+{
+  "name": "springtest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.63.4",
+    "vite": "^4.3.9"
+  },
+  "dependencies": {
+    "bootstrap": "^4.6.2"
+  }
+}
