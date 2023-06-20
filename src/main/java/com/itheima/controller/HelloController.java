@@ -38,4 +38,11 @@ public class HelloController {
         System.out.println(person);
         return "index2";
     }
+
+    @GetMapping("/index3")
+    public String index3(){
+        System.out.println(person);
+        return "index2";
+    }
+
 }
