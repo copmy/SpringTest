@@ -45,4 +45,11 @@ public class HelloController {
         return "index2";
     }
 
+    @GetMapping("/index3")
+    public String index4(){
+        System.out.println(person);
+        return "index2";
+    }
+
+
 }
